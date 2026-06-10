@@ -12,8 +12,8 @@ These protocols were developed and validated as part of the project *Amoebozoa�
 
 | Protocol | Description |
 |----------|-------------|
-| [Moist Chamber Culture](moist-chamber-culture.md) | Non-sterile cultivation from field substrate; preserves native microbiota (eubiosis) |
-| [Agar Culture](agar-culture.md) | Semi-axenic cultivation from sporophores; reduces bacterial load (axenization / dysbiosis) |
+| [Moist Chamber Culture](moist-chamber-culture.md) / [Cultivo en Cámara Húmeda](moist-chamber-culture_es.md) | Non-sterile cultivation from field substrate; preserves native microbiota (eubiosis) |
+| [Agar Culture](agar-culture.md) / [Cultivo en Agar](agar-culture_es.md) | Semi-axenic cultivation from sporophores; reduces bacterial load (axenization / dysbiosis) |
 
 ---
 

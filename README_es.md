@@ -12,8 +12,8 @@ Estos protocolos fueron desarrollados y validados como parte del proyecto *Relac
 
 | Protocolo | Descripción |
 |-----------|-------------|
-| [Cultivo en Cámara Húmeda](moist-chamber-culture.md) | Cultivo no estéril a partir de sustrato de campo; preserva la microbiota nativa (eubiosis) |
-| [Cultivo en Agar](agar-culture.md) | Cultivo semi-axénico a partir de esporoforos; reduce la carga bacteriana (axenización / disbiosis) |
+| [Cultivo en Cámara Húmeda](moist-chamber-culture_es.md) / [Moist Chamber Culture](moist-chamber-culture.md) | Cultivo no estéril a partir de sustrato de campo; preserva la microbiota nativa (eubiosis) |
+| [Cultivo en Agar](agar-culture_es.md) / [Agar Culture](agar-culture.md) | Cultivo semi-axénico a partir de esporoforos; reduce la carga bacteriana (axenización / disbiosis) |
 
 ---
 
