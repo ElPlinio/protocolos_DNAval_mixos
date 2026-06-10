@@ -1,5 +1,7 @@
 # Myxomycete Protocols
 
+🌐 [Español](README_es.md)
+
 Protocols for the cultivation, identification, and microbiome characterization of myxomycete plasmodia, developed at the **Laboratorio de Interacciones Bióticas, Centro de Investigación en Ciencias Biológicas, Universidad Autónoma de Tlaxcala, Mexico**.
 
 These protocols were developed and validated as part of the project *Amoebozoa–bacteria relationship through metagenomic analysis of the myxomycete plasmodium microbiome* (SECIHTI CBF2023-2024-1480).
@@ -27,9 +29,9 @@ Raw 16S sequencing data: [NCBI BioProject PRJNA1281717](https://www.ncbi.nlm.nih
 
 ## Authors
 
-- Stephanie Hereira-Pacheco
 - Juan Pablo Molina-Viramontes
 - Elizabeth Selene Gómez-Acata
+- Stephanie Hereira-Pacheco
 - Arturo Estrada-Torres
 - Yendi E. Navarro-Noya
 
